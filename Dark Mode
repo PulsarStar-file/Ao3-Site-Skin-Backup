@@ -1,0 +1,149 @@
+ Skin Wizard Values
+
+Percent of browser font size: 130%
+
+Background color: #282828
+
+Text color: #FFFFFF
+
+Header color: #8B0000
+
+Accent color: #303030
+Boop AO3 Header
+
+#header .logo {
+
+display: none;
+
+}
+
+#header h1.heading a::before {
+
+display: inline-block;
+
+width: 320px;
+
+height: 50px;
+
+content: " ";
+
+background-image: url("https://64.media.tumblr.com/7bba2404f3ba03df470499701b920ab0/e17a337685fece4c-77/s640x960/531b098ea5fe8de580b30b2f162ba922da48918c.png");
+
+background-size: cover;
+
+}
+
+#header h1.heading span {
+
+display: none;
+
+}
+
+#header h1.heading sup {
+
+display: none;
+
+}
+Bold Bookmark Tags
+
+.bookmark li .meta.tags {
+
+font-weight: bold;
+
+}
+Comment Box Colours
+
+.comment.odd {
+
+background: #282828;
+
+}
+
+.comment.even {
+
+background: #393939;
+
+}
+
+Tag Outline Boxes & Size
+
+a.tag {
+
+padding: 4px 7px;
+
+line-height: 2.3em;
+
+border: 1px solid;
+
+border-radius: 3px;
+
+}
+
+.tag {
+
+font-size: 70%;
+
+}
+
+.commas li:after {
+
+content: "";
+
+}
+
+Work Outline Box
+
+.group .group,
+
+.actions a,
+
+.actions a:link,
+
+.actions a:hover,
+
+.actions a:focus,
+
+.actions input,
+
+.actions input:hover,
+
+.actions input:focus,
+
+.actions button,
+
+.actions button:hover,
+
+.actions button:focus,
+
+.flash,
+
+fieldset,
+
+fieldset,
+
+form dl,
+
+fieldset dl dl,
+
+fieldset fieldset fieldset,
+
+fieldset fieldset dl dl,
+
+form.single fieldset,
+
+dd.hideme,
+
+form blockquote.userstuff {
+
+border: 2px solid;
+
+}
+
+.favorite a.tag {
+
+border: none;
+Remove Logout Button
+
+[href$="/logout"] {
+
+display: none !important;
