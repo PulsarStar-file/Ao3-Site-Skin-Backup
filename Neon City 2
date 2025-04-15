@@ -413,9 +413,9 @@ dd.relationship.tags a {
 .work .stats .comments,
 .work .stats .hits,
 .work .stats .kudos,
-option[value=bookmarks_count],
-option[value=comments_count],
-option[value=hits],
-option[value=kudos_count] {
+value=bookmarks_count,
+value=comments_count,
+value=hits,
+value=kudos_count{
   display: all;
 }
