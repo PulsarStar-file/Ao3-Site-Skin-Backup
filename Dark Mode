@@ -1,5 +1,6 @@
  Skin Wizard Values
 
+
 Percent of browser font size: 130%
 
 Background color: #282828
@@ -44,14 +45,22 @@ display: none;
 display: none;
 
 }
+
+
+
 Bold Bookmark Tags
+
 
 .bookmark li .meta.tags {
 
 font-weight: bold;
 
 }
+
+
+
 Comment Box Colours
+
 
 .comment.odd {
 
@@ -65,7 +74,10 @@ background: #393939;
 
 }
 
+
+
 Tag Outline Boxes & Size
+
 
 a.tag {
 
@@ -91,7 +103,10 @@ content: "";
 
 }
 
+
+
 Work Outline Box
+
 
 .group .group,
 
