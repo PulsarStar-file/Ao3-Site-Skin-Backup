@@ -1,0 +1,487 @@
+#header .logo {
+
+  background-image: url("https://images.squidge.org/images/2024/03/30/AO3_imageset_pink.png");
+
+  background-size: 250px 1044px;
+
+  padding: 42px 0 0 60px;
+
+  width: 0 !important;
+
+  height: 0 !important;
+
+  background-position: -140px -749.6px;
+
+}
+
+#header ul.primary,
+
+#header h2 {
+
+  box-shadow: none;
+
+}
+
+.required-tags .rating-notrated,
+
+.required-tags .rating-general-audience,
+
+.required-tags .rating-explicit,
+
+.required-tags .rating-mature,
+
+.required-tags .rating-teen,
+
+.required-tags .category-femslash,
+
+.required-tags .category-gen,
+
+.required-tags .category-slash,
+
+.required-tags .category-none,
+
+.required-tags .category-het,
+
+.required-tags .category-multi,
+
+.required-tags .category-other,
+
+.required-tags .complete-no,
+
+.required-tags .complete-yes,
+
+.required-tags .warning-yes,
+
+.required-tags .warning-no,
+
+.required-tags .warning-choosenotto,
+
+.required-tags .external-work,
+
+.status .private .text,
+
+.status .public,
+
+.status .hidden,
+
+.status .rec,
+
+.status .count,
+
+.index .skins .icon,
+
+.index .mystery .icon,
+
+.index .tag .icon,
+
+.index .tagset .icon,
+
+.comment .icon .anonymous,
+
+.comment .icon .visitor,
+
+.abbreviated .icon .visitor,
+
+.abbreviated .icon .anonymous,
+
+.skins .primary .icon,
+
+.admin .primary .icon,
+
+.tagset .primary .icon,
+
+.tag .primary .icon,
+
+a.rss span,
+
+p.kudos,
+
+#symbols-key dl img,
+
+#bookmark-symbols-key img,
+
+img[src$="/images/skins/iconsets/default/icon_user.png"],
+
+img[src$="/images/skins/iconsets/default/icon_collection.png"],
+
+img[src$="/images/lockblue.png"] {
+
+  background-image: url("https://images.squidge.org/images/2024/03/30/AO3_imageset_pink.png");
+
+  background-size: 200px 835px;
+
+}
+
+#symbols-key dl img,
+
+#bookmark-symbols-key img {
+
+  width: 0 !important;
+
+  height: 0 !important;
+
+  padding: 25px 0 0 25px;
+
+}
+
+img[src$="/images/skins/iconsets/default/rating-notrated.png"],
+
+img[src$="/images/skins/iconsets/default/category-none.png"],
+
+img[src$="/images/skins/iconsets/default/warning-no.png"] {
+
+  background-position: -150px 0px;
+
+}
+
+img[src$="/images/skins/iconsets/default/rating-general-audience.png"] {
+
+  background-position: -50px -25px;
+
+}
+
+img[src$="/images/skins/iconsets/default/rating-teen.png"] {
+
+  background-position: 0px -25px;
+
+}
+
+img[src$="/images/skins/iconsets/default/rating-mature.png"] {
+
+  background-position: -75px -25px;
+
+}
+
+img[src$="/images/skins/iconsets/default/rating-explicit.png"] {
+
+  background-position: -25px -25px;
+
+}
+
+img[src$="/images/skins/iconsets/default/category-femslash.png"] {
+
+  background-position: -25px 0px;
+
+}
+
+img[src$="/images/skins/iconsets/default/category-het.png"] {
+
+  background-position: -75px 0px;
+
+}
+
+img[src$="/images/skins/iconsets/default/category-gen.png"] {
+
+  background-position: -50px 0px;
+
+}
+
+img[src$="/images/skins/iconsets/default/category-multi.png"] {
+
+  background-position: -100px 0px;
+
+}
+
+img[src$="/images/skins/iconsets/default/category-other.png"] {
+
+  background-position: -125px 0px;
+
+}
+
+img[src$="/images/skins/iconsets/default/warning-choosenotto.png"] {
+
+  background-position: -125px -25px;
+
+}
+
+img[src$="/images/skins/iconsets/default/warning-yes.png"] {
+
+  background-position: -150px -25px;
+
+}
+
+img[src$="/images/skins/iconsets/default/warning-external-work.png"] {
+
+  background-position: -75px -50px;
+
+}
+
+img[src$="/images/skins/iconsets/default/complete-no.png"] {
+
+  background-position: -100px -25px;
+
+}
+
+img[src$="/images/skins/iconsets/default/complete-yes.png"] {
+
+  background-position: -175px -25px;
+
+}
+
+img[src$="/images/skins/iconsets/default/bookmark-rec.png"] {
+
+  background-position: -100px -50px;
+
+}
+
+img[src$="/images/skins/iconsets/default/bookmark-public.png"] {
+
+  background-position: -125px -50px;
+
+}
+
+img[src$="/images/skins/iconsets/default/bookmark-private.png"] {
+
+  background-position: -175px -50px;
+
+}
+
+img[src$="/images/skins/iconsets/default/bookmark-hidden.png"] {
+
+  background-position: -150px -50px;
+
+}
+
+img[src$="/images/skins/iconsets/default/icon_user.png"],
+
+img[src$="/images/skins/iconsets/default/icon_collection.png"],
+
+img[src$="/images/lockblue.png"] {
+
+  width: 0 !important;
+
+  height: 0 !important;
+
+}
+
+img[src$="/images/skins/iconsets/default/icon_user.png"] {
+
+  padding: 100px 0 0 100px;
+
+  background-position: 0px -75px;
+
+}
+
+.index:not(.comment) .abbreviated img[src$="/images/skins/iconsets/default/icon_user.png"] {
+
+  padding: 75px 0 0 75px;
+
+  background-position: 0px -375px;
+
+}
+
+.index:not(.comment) img[src$="/images/skins/iconsets/default/icon_user.png"] {
+
+  padding: 55px 0 0 55px;
+
+  background-position: 0px -525px;
+
+}
+
+#greeting img[src$="/images/skins/iconsets/default/icon_user.png"] {
+
+  padding: 1.786em 0 0 1.786em;
+
+  background-position: 0 -19px;
+
+  background-size: 201% !important;
+
+}
+
+img[src$="/images/skins/iconsets/default/icon_collection.png"] {
+
+  padding: 100px 0 0 100px;
+
+  background-position: -100px -175px;
+
+}
+
+.index img[src$="/images/skins/iconsets/default/icon_collection.png"] {
+
+  padding: 55px 0 0 55px;
+
+  background-position: -55px -525px;
+
+}
+
+img[src$="/images/lockblue.png"] {
+
+  padding: 15px 0 0 15px;
+
+  background-position: -155px -305px;
+
+}
+
+button,
+
+.actions a,
+
+.actions a:link,
+
+.action,
+
+legend .action:link,
+
+input[type="submit"],
+
+.actions a:visited,
+
+.actions li label,
+
+a.action.modal-closer {
+
+  color: #FCF5ED;
+
+  background: #A0153E;
+
+  border: 1px solid #A0153E;
+
+  box-shadow: none;
+
+}
+
+button:hover,
+
+.actions a:hover,
+
+.action:hover,
+
+input[type="submit"]:hover {
+
+  color: #00224D;
+
+  background: #ff2071 !important;
+
+  border: 1px solid #ff2071;
+
+  box-shadow: none;
+
+}
+
+.actions li .current,
+
+.current,
+
+#dashboard .current {
+
+  color: #FCF5ED;
+
+  background: #ff2071;
+
+  border: 1px solid #ff2071;
+
+  box-shadow: none;
+
+}
+
+dl.meta {
+
+  border: 1px solid #a0153e;
+
+}
+
+.wrapper {
+
+  box-shadow: 1px 1px 5px #a0153e;
+
+}
+
+.actions input:focus {
+
+  border-top: 1px solid #a0153e;
+
+  border-left: 1px solid #a0153e;
+
+  box-shadow: none;
+
+}
+
+#dashboard .secondary {
+
+  background: #ff2071;
+
+  box-shadow: inset 2px 2px 5px #a0153e;
+
+}
+
+.alert .userstuff {
+
+  background: #ff91ba;
+
+  border-color: #ffd6e6;
+
+  color: #8a0035;
+
+}
+
+.qtip-content,
+
+.notice:not(.required),
+
+.comment_notice,
+
+.kudos_notice,
+
+ul.notes,
+
+.caution,
+
+.notice a {
+
+  color: #fcb6d1;
+
+}
+
+.notice,
+
+.comment_notice,
+
+.kudos_notice,
+
+ul.notes,
+
+.caution,
+
+.error,
+
+.comment_error,
+
+.kudos_error,
+
+.alert.flash {
+
+  background: #a0153e;
+
+  border: 1px solid #ff91ba;
+
+}
+
+.required,
+
+.error,
+
+.alert.flash {
+
+  color: #fcc2d8;
+
+}
+
+button:hover,
+
+.actions a:hover,
+
+.action:hover,
+
+input[type="submit"]:hover {
+
+  color: #4f001b;
+
+}
+
+.comment img[src$="/images/skins/iconsets/default/icon_user.png"] {
+
+  padding: 55px 0 0 55px !important;
+
+  background-position: 0px -525px !important;
+
+}
